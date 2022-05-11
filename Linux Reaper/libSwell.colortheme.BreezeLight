@@ -1,0 +1,103 @@
+default_font_face Noto Sans
+default_font_size 12
+menubar_height 24
+menubar_font_size 12
+menubar_spacing_width 12
+menubar_margin_width 8
+scrollbar_width 10
+scrollbar_min_thumb_height 8
+combo_height 24
+
+_3dface #dee0e2
+_3dshadow #dee0e2
+_3dhilight #ffffff
+_3ddkshadow #e8ecee
+
+button_bg #ffffff
+button_hilight #ffffff
+button_text #000000
+button_text_disabled #ffffff
+
+combo_arrow #000000
+combo_arrow_press #000000
+combo_bg #ffffff
+combo_bg2 #ffffff
+combo_text #000000
+combo_text_disabled #ffffff
+
+checkbox_bg #ffffff
+checkbox_fg #3daee9
+checkbox_inter #ffffff
+checkbox_text_disabled #ffffff
+checkbox_text #000000
+
+edit_bg #ffffff
+edit_bg_disabled #ffffff
+edit_bg_sel #3daee9
+edit_cursor #3daee9
+edit_hilight #ffffff
+edit_shadow #e8ecee
+edit_text #000000
+edit_text_disabled #ffffff
+edit_text_sel #ffffff
+
+focus_hilight #3daee9
+focusrect #dee0e2
+
+group_hilight #ffffff
+group_shadow #e8ecee
+group_text #000000
+
+info_bk #dee0e2
+info_text #000000
+
+label_text #000000
+label_text_disabled #ffffff
+
+listview_bg #ffffff
+listview_bg_sel #3daee9
+listview_hdr_arrow #ffffff
+listview_hdr_bg #ffffff
+listview_hdr_hilight #ffffff
+listview_hdr_shadow #e8ecee
+listview_hdr_text #000000
+listview_text #000000
+listview_text_sel #ffffff
+
+menu_bg #dee0e2
+menu_bg_sel #3daee9
+menu_hilight #ffffff
+menu_shadow #e8ecee
+menu_scroll #000000
+menu_scroll_arrow #000000
+menu_submenu_arrow #000000
+menu_text #000000
+menu_text_disabled #ffffff
+menu_text_sel #ffffff
+
+menubar_bg #dee0e2
+menubar_bg_inactive #dee0e2
+menubar_bg_sel #3daee9
+menubar_text #000000
+menubar_text_disabled #ffffff
+menubar_text_sel #ffffff
+
+progress #3daee9
+
+scrollbar #3daee9
+scrollbar_fg #3daee9
+scrollbar_bg #e8ecee
+
+tab_hilight #ffffff
+tab_shadow #e8ecee
+tab_text #000000
+
+trackbar_knob #dee0e2
+trackbar_mark #e8ecee
+trackbar_track #ffffff
+
+treeview_arrow #000000
+treeview_bg #ffffff
+treeview_bg_sel #3daee9
+treeview_text #000000
+treeview_text_sel #ffffff
