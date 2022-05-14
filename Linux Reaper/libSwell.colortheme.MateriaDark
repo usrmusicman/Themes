@@ -9,47 +9,47 @@ scrollbar_min_thumb_height 8
 combo_height 24
 
 _3dface #3c3c3c
-_3dshadow #222222
+_3dshadow #111111
 _3dhilight #3c3c3c
 _3ddkshadow #222222
 
-button_bg #222222
-button_shadow #222222
+button_bg #111111
+button_shadow #111111
 button_hilight #3c3c3c
 button_text #ffffff
 button_text_disabled #222222
 
 combo_arrow #ffffff
 combo_arrow_press #ffffff
-combo_bg #222222
+combo_bg #111111
 combo_bg2 #222222
 combo_text #ffffff
 combo_text_disabled #222222
 
-checkbox_bg #222222
+checkbox_bg #111111
 checkbox_fg #019f72
 checkbox_inter #222222
 checkbox_text_disabled #222222
 checkbox_text #ffffff
 
-edit_bg #222222
+edit_bg #111111
 edit_bg_disabled #222222
 edit_bg_sel #019f72
 edit_cursor #ffffff
 edit_hilight #3c3c3c
-edit_shadow #222222
+edit_shadow #111111
 edit_text #ffffff
 edit_text_disabled #222222
-edit_text_sel #222222
+edit_text_sel #111111
 
 focus_hilight #019f72
-focusrect #222222
+focusrect #111111
 
 group_hilight #3c3c3c
-group_shadow #222222
+group_shadow #111111
 group_text #ffffff
 
-info_bk #222222
+info_bk #111111
 info_text #ffffff
 
 label_text #ffffff
@@ -60,28 +60,28 @@ listview_bg_sel #019f72
 listview_hdr_arrow #ffffff
 listview_hdr_bg #3c3c3c
 listview_hdr_hilight #3c3c3c
-listview_hdr_shadow #222222
+listview_hdr_shadow #111111
 listview_hdr_text #ffffff
 listview_text #ffffff
-listview_text_sel #222222
+listview_text_sel #111111
 
 menu_bg #111111
 menu_bg_sel #019f72
 menu_hilight #3c3c3c
-menu_shadow #222222
+menu_shadow #111111
 menu_scroll #3c3c3c
 menu_scroll_arrow #ffffff
 menu_submenu_arrow #ffffff
 menu_text #ffffff
 menu_text_disabled #3c3c3c
-menu_text_sel #222222
+menu_text_sel #111111
 
 menubar_bg #111111
 menubar_bg_inactive #222222
 menubar_bg_sel #019f72
 menubar_text #ffffff
 menubar_text_disabled #3c3c3c
-menubar_text_sel #222222
+menubar_text_sel #111111
 
 progress #019f72
 
@@ -90,15 +90,15 @@ scrollbar_fg #019f72
 scrollbar_bg #3c3c3c
 
 tab_hilight #3c3c3c
-tab_shadow #222222
+tab_shadow #111111
 tab_text #ffffff
 
-trackbar_knob #222222
+trackbar_knob #111111
 trackbar_mark #404040
 trackbar_track #3c3c3c
 
 treeview_arrow #ffffff
-treeview_bg #222222
+treeview_bg #111111
 treeview_bg_sel #019f72
 treeview_text #ffffff
-treeview_text_sel #222222
+treeview_text_sel #111111
