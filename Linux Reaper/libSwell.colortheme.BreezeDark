@@ -8,14 +8,14 @@ scrollbar_width 10
 scrollbar_min_thumb_height 8
 combo_height 24
 
-_3dface #1b1e20
+_3dface #141618
 _3dshadow #2a2e32
-_3dhilight #1b1e20
+_3dhilight #141618
 _3ddkshadow #2a2e32
 
 button_bg #2a2e32
 button_shadow #2a2e32
-button_hilight #1b1e20
+button_hilight #141618
 button_text #ffffff
 button_text_disabled #2a2e32
 
@@ -36,7 +36,7 @@ edit_bg #2a2e32
 edit_bg_disabled #2a2e32
 edit_bg_sel #3daee9
 edit_cursor #ffffff
-edit_hilight #1b1e20
+edit_hilight #141618
 edit_shadow #2a2e32
 edit_text #ffffff
 edit_text_disabled #2a2e32
@@ -45,7 +45,7 @@ edit_text_sel #2a2e32
 focus_hilight #3daee9
 focusrect #2a2e32
 
-group_hilight #1b1e20
+group_hilight #141618
 group_shadow #2a2e32
 group_text #ffffff
 
@@ -53,13 +53,13 @@ info_bk #2a2e32
 info_text #ffffff
 
 label_text #ffffff
-label_text_disabled #1b1e20
+label_text_disabled #141618
 
-listview_bg #1b1e20
+listview_bg #141618
 listview_bg_sel #3daee9
 listview_hdr_arrow #ffffff
-listview_hdr_bg #1b1e20
-listview_hdr_hilight #1b1e20
+listview_hdr_bg #141618
+listview_hdr_hilight #141618
 listview_hdr_shadow #2a2e32
 listview_hdr_text #ffffff
 listview_text #ffffff
@@ -67,35 +67,35 @@ listview_text_sel #2a2e32
 
 menu_bg #2a2e32
 menu_bg_sel #3daee9
-menu_hilight #1b1e20
+menu_hilight #141618
 menu_shadow #2a2e32
-menu_scroll #1b1e20
+menu_scroll #141618
 menu_scroll_arrow #ffffff
 menu_submenu_arrow #ffffff
 menu_text #ffffff
-menu_text_disabled #1b1e20
+menu_text_disabled #141618
 menu_text_sel #2a2e32
 
 menubar_bg #2a2e32
 menubar_bg_inactive #2a2e32
 menubar_bg_sel #3daee9
 menubar_text #ffffff
-menubar_text_disabled #1b1e20
+menubar_text_disabled #141618
 menubar_text_sel #2a2e32
 
 progress #3daee9
 
 scrollbar #3daee9
 scrollbar_fg #3daee9
-scrollbar_bg #1b1e20
+scrollbar_bg #141618
 
-tab_hilight #1b1e20
+tab_hilight #141618
 tab_shadow #2a2e32
 tab_text #ffffff
 
 trackbar_knob #2a2e32
 trackbar_mark #404040
-trackbar_track #1b1e20
+trackbar_track #141618
 
 treeview_arrow #ffffff
 treeview_bg #2a2e32
