@@ -6,6 +6,7 @@ Name=Material Blur
 Parent=FALLBACK/
 
 [Interaction Options]
+AutoCopySelectedText=true
 TrimLeadingSpacesInSelectedText=true
 TrimTrailingSpacesInSelectedText=true
 
