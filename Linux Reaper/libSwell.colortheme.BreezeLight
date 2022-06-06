@@ -1,12 +1,12 @@
 default_font_face Noto Sans
 default_font_size 12
-menubar_height 22
+menubar_height 24
 menubar_font_size 12
-menubar_spacing_width 10
+menubar_spacing_width 12
 menubar_margin_width 10
 scrollbar_width 10
 scrollbar_min_thumb_height 8
-combo_height 22
+combo_height 24
 
 _3dface #dee0e2
 _3dshadow #dee0e2
