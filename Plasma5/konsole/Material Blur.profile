@@ -1,8 +1,8 @@
 [Appearance]
-ColorScheme=Breeze Blur
+ColorScheme=Material Blur
 
 [General]
-Name=Breeze Blur
+Name=Material Blur
 Parent=FALLBACK/
 
 [Interaction Options]
