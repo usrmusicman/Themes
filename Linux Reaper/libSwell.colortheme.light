@@ -1,7 +1,7 @@
 default_font_face Noto Sans
 default_font_size 12
 menubar_height 26
-menubar_font_size 14
+menubar_font_size 12
 menubar_spacing_width 10
 menubar_margin_width 8
 scrollbar_width 8
